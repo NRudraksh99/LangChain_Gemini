@@ -9,3 +9,4 @@ Some important points to ensure proper working of this project are shown below:
   - It would require the mentioning of project details
   - After all details are specified, you API key would be successfully generated!
 - Copy this API key and save it as an environment variable named *GOOGLE_API_KEY* (necessary for the proper functioning of this project!)
+- Finally to run the code, use the command `streamlit run LangChain_Gemini.py`
