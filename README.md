@@ -8,4 +8,4 @@ Some important points to ensure proper working of this project are shown below:
   - Then, click on *Create API key*.
   - It would require the mentioning of project details
   - After all details are specified, you API key would be successfully generated!
-- Copy this API key and save it as an environment variable named *GOOGLE_API_KRY* (necessary for the proper functioning of this project!)
+- Copy this API key and save it as an environment variable named *GOOGLE_API_KEY* (necessary for the proper functioning of this project!)
